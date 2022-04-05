@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: b72608bed7efb724f9d01e3e0ef4ae7d
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 548c927d94d5cf72c3a7a9f72d5851b5
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.97495705, y: 0.6724015, z: -1.6807055}
+      lookAt: {x: 0.19729748, y: 0.5756927, z: 0.017368993}
+      up: {x: -0.021531347, y: 0.9986621, z: 0.04701522}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bridge
+    100004: //RootNode
+    100006: Pick Guard
+    100008: Pickups
+    100010: Pickups 1
+    100012: Pickups 2
+    100014: String
+    100016: String 1
+    100018: String 2
+    100020: String 3
+    100022: String 4
+    100024: String 5
+    100026: Volume & Tone Knobs
+    100028: Volume & Tone Knobs 1
+    100030: Volume & Tone Knobs 2
+    400000: Body
+    400002: Bridge
+    400004: //RootNode
+    400006: Pick Guard
+    400008: Pickups
+    400010: Pickups 1
+    400012: Pickups 2
+    400014: String
+    400016: String 1
+    400018: String 2
+    400020: String 3
+    400022: String 4
+    400024: String 5
+    400026: Volume & Tone Knobs
+    400028: Volume & Tone Knobs 1
+    400030: Volume & Tone Knobs 2
+    2100000: String_Color_007
+    2100002: Bridge_Color_005
+    2100004: Pick_Guard_Color_002
+    2100006: Bridge_Light_Gray
+    2100008: Pick_Guard_Color_008
+    2100010: Volume_&_Tone_Knobs_Color_001
+    2100012: Body_Charcoal
+    2100014: Body_Wheat
+    2100016: Body_Color_004
+    2300000: Body
+    2300002: Bridge
+    2300004: Pick Guard
+    2300006: Pickups
+    2300008: Pickups 1
+    2300010: Pickups 2
+    2300012: String
+    2300014: String 1
+    2300016: String 2
+    2300018: String 3
+    2300020: String 4
+    2300022: String 5
+    2300024: Volume & Tone Knobs
+    2300026: Volume & Tone Knobs 1
+    2300028: Volume & Tone Knobs 2
+    3300000: Body
+    3300002: Bridge
+    3300004: Pick Guard
+    3300006: Pickups
+    3300008: Pickups 1
+    3300010: Pickups 2
+    3300012: String
+    3300014: String 1
+    3300016: String 2
+    3300018: String 3
+    3300020: String 4
+    3300022: String 5
+    3300024: Volume & Tone Knobs
+    3300026: Volume & Tone Knobs 1
+    3300028: Volume & Tone Knobs 2
+    4300000: Mesh String
+    4300002: Mesh String
+    4300004: Mesh Pickups
+    4300006: Mesh Bridge
+    4300008: Mesh Pick Guard
+    4300010: Mesh Volume & Tone Knobs
+    4300012: Mesh Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

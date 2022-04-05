@@ -1,0 +1,857 @@
+fileFormatVersion: 2
+guid: 389c47a2793dbc74c93412e27707258f
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000
+  assetHash:
+    serializedVersion: 2
+    Hash: b322499847ee88537badfadc3b162867
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -2.7689881, y: 2.7624846, z: -7.989918}
+      lookAt: {x: 13.950233, y: -0.5655354, z: 9.661505}
+      up: {x: 0.09326231, y: 0.990761, z: 0.098462276}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: '[Round]'
+    100002: '[Round] 1'
+    100004: '[Round] 10'
+    100006: '[Round] 11'
+    100008: '[Round] 12'
+    100010: '[Round] 13'
+    100012: '[Round] 14'
+    100014: '[Round] 15'
+    100016: '[Round] 16'
+    100018: '[Round] 17'
+    100020: '[Round] 18'
+    100022: '[Round] 19'
+    100024: '[Round] 2'
+    100026: '[Round] 20'
+    100028: '[Round] 21'
+    100030: '[Round] 22'
+    100032: '[Round] 23'
+    100034: '[Round] 24'
+    100036: '[Round] 25'
+    100038: '[Round] 26'
+    100040: '[Round] 27'
+    100042: '[Round] 28'
+    100044: '[Round] 29'
+    100046: '[Round] 3'
+    100048: '[Round] 30'
+    100050: '[Round] 31'
+    100052: '[Round] 32'
+    100054: '[Round] 33'
+    100056: '[Round] 34'
+    100058: '[Round] 35'
+    100060: '[Round] 36'
+    100062: '[Round] 37'
+    100064: '[Round] 38'
+    100066: '[Round] 39'
+    100068: '[Round] 4'
+    100070: '[Round] 40'
+    100072: '[Round] 41'
+    100074: '[Round] 42'
+    100076: '[Round] 43'
+    100078: '[Round] 44'
+    100080: '[Round] 45'
+    100082: '[Round] 5'
+    100084: '[Round] 6'
+    100086: '[Round] 7'
+    100088: '[Round] 8'
+    100090: '[Round] 9'
+    100092: almofada#2
+    100094: Component#10
+    100096: Component#106
+    100098: Component#106 1
+    100100: Component#107
+    100102: Component#108
+    100104: Component#108 1
+    100106: Component#109
+    100108: Component#109 1
+    100110: Component#11
+    100112: Component#110
+    100114: Component#111
+    100116: Component#111 1
+    100118: Component#112
+    100120: Component#116
+    100122: Component#116 1
+    100124: Component#116 2
+    100126: Component#116 3
+    100128: Component#12
+    100130: Component#162
+    100132: Component#21
+    100134: Component#21 1
+    100136: Component#22
+    100138: Component#22 1
+    100140: Component#22 2
+    100142: Component#22 3
+    100144: Component#23
+    100146: Component#23 1
+    100148: Component#24
+    100150: Component#24 1
+    100152: Component#3
+    100154: Component#5
+    100156: Component#6
+    100158: Component#6 1
+    100160: Component#8
+    100162: Component#84
+    100164: Component#86
+    100166: Component#86 1
+    100168: Component#9
+    100170: desk
+    100172: doorknob_half
+    100174: doorknob_half 1
+    100176: doorknob_half 2
+    100178: doorknob_half 3
+    100180: Doorknob_HandleSet
+    100182: Doorknob_HandleSet 1
+    100184: Foot
+    100186: Foot 1
+    100188: Foot 2
+    100190: Foot 3
+    100192: Foot 4
+    100194: Foot 5
+    100196: Group 123
+    100198: Group 125
+    100200: Group 127
+    100202: Group 129
+    100204: Group 131
+    100206: Group 145
+    100208: Group 146
+    100210: Group 148
+    100212: Group 150
+    100214: Group 152
+    100216: Group 154
+    100218: Group 156
+    100220: Group 205
+    100222: Group 207
+    100224: Group 209
+    100226: Group 211
+    100228: Group 213
+    100230: Group 22
+    100232: Group 63
+    100234: Group 64
+    100236: Group 66
+    100238: Group 68
+    100240: Group 70
+    100242: Group 72
+    100244: Group 74
+    100246: Group#48
+    100248: Group#48 1
+    100250: Group#48 2
+    100252: Group#48 3
+    100254: Lower Seat
+    100256: Lower Seat 1
+    100258: Lower Seat 2
+    100260: Lower Seat 3
+    100262: New leg
+    100264: New leg 1
+    100266: New leg 2
+    100268: New leg 3
+    100270: Padded Chair
+    100272: Padded Chair 1
+    100274: PICTUREFRAMEWSTAND
+    100276: SAMSUNG
+    100278: Short Leg
+    100280: Short Leg 1
+    100282: Short Leg 10
+    100284: Short Leg 11
+    100286: Short Leg 2
+    100288: Short Leg 3
+    100290: Short Leg 4
+    100292: Short Leg 5
+    100294: Short Leg 6
+    100296: Short Leg 7
+    100298: Short Leg 8
+    100300: Short Leg 9
+    100302: sm top
+    100304: sm top#1
+    100306: Small Round
+    100308: Speaker_Stand
+    100310: Speaker_Stand 1
+    100312: 'Speakers - Book Shelf '
+    100314: Speakers - Book Shelf  1
+    100316: Tall Leg
+    100318: Tall Leg 1
+    100320: Tall Leg 2
+    100322: Tall Leg 3
+    100324: TV
+    100326: //RootNode
+    400000: '[Round]'
+    400002: '[Round] 1'
+    400004: '[Round] 10'
+    400006: '[Round] 11'
+    400008: '[Round] 12'
+    400010: '[Round] 13'
+    400012: '[Round] 14'
+    400014: '[Round] 15'
+    400016: '[Round] 16'
+    400018: '[Round] 17'
+    400020: '[Round] 18'
+    400022: '[Round] 19'
+    400024: '[Round] 2'
+    400026: '[Round] 20'
+    400028: '[Round] 21'
+    400030: '[Round] 22'
+    400032: '[Round] 23'
+    400034: '[Round] 24'
+    400036: '[Round] 25'
+    400038: '[Round] 26'
+    400040: '[Round] 27'
+    400042: '[Round] 28'
+    400044: '[Round] 29'
+    400046: '[Round] 3'
+    400048: '[Round] 30'
+    400050: '[Round] 31'
+    400052: '[Round] 32'
+    400054: '[Round] 33'
+    400056: '[Round] 34'
+    400058: '[Round] 35'
+    400060: '[Round] 36'
+    400062: '[Round] 37'
+    400064: '[Round] 38'
+    400066: '[Round] 39'
+    400068: '[Round] 4'
+    400070: '[Round] 40'
+    400072: '[Round] 41'
+    400074: '[Round] 42'
+    400076: '[Round] 43'
+    400078: '[Round] 44'
+    400080: '[Round] 45'
+    400082: '[Round] 5'
+    400084: '[Round] 6'
+    400086: '[Round] 7'
+    400088: '[Round] 8'
+    400090: '[Round] 9'
+    400092: almofada#2
+    400094: Component#10
+    400096: Component#106
+    400098: Component#106 1
+    400100: Component#107
+    400102: Component#108
+    400104: Component#108 1
+    400106: Component#109
+    400108: Component#109 1
+    400110: Component#11
+    400112: Component#110
+    400114: Component#111
+    400116: Component#111 1
+    400118: Component#112
+    400120: Component#116
+    400122: Component#116 1
+    400124: Component#116 2
+    400126: Component#116 3
+    400128: Component#12
+    400130: Component#162
+    400132: Component#21
+    400134: Component#21 1
+    400136: Component#22
+    400138: Component#22 1
+    400140: Component#22 2
+    400142: Component#22 3
+    400144: Component#23
+    400146: Component#23 1
+    400148: Component#24
+    400150: Component#24 1
+    400152: Component#3
+    400154: Component#5
+    400156: Component#6
+    400158: Component#6 1
+    400160: Component#8
+    400162: Component#84
+    400164: Component#86
+    400166: Component#86 1
+    400168: Component#9
+    400170: desk
+    400172: doorknob_half
+    400174: doorknob_half 1
+    400176: doorknob_half 2
+    400178: doorknob_half 3
+    400180: Doorknob_HandleSet
+    400182: Doorknob_HandleSet 1
+    400184: Foot
+    400186: Foot 1
+    400188: Foot 2
+    400190: Foot 3
+    400192: Foot 4
+    400194: Foot 5
+    400196: Group 123
+    400198: Group 125
+    400200: Group 127
+    400202: Group 129
+    400204: Group 131
+    400206: Group 145
+    400208: Group 146
+    400210: Group 148
+    400212: Group 150
+    400214: Group 152
+    400216: Group 154
+    400218: Group 156
+    400220: Group 205
+    400222: Group 207
+    400224: Group 209
+    400226: Group 211
+    400228: Group 213
+    400230: Group 22
+    400232: Group 63
+    400234: Group 64
+    400236: Group 66
+    400238: Group 68
+    400240: Group 70
+    400242: Group 72
+    400244: Group 74
+    400246: Group#48
+    400248: Group#48 1
+    400250: Group#48 2
+    400252: Group#48 3
+    400254: Lower Seat
+    400256: Lower Seat 1
+    400258: Lower Seat 2
+    400260: Lower Seat 3
+    400262: New leg
+    400264: New leg 1
+    400266: New leg 2
+    400268: New leg 3
+    400270: Padded Chair
+    400272: Padded Chair 1
+    400274: PICTUREFRAMEWSTAND
+    400276: SAMSUNG
+    400278: Short Leg
+    400280: Short Leg 1
+    400282: Short Leg 10
+    400284: Short Leg 11
+    400286: Short Leg 2
+    400288: Short Leg 3
+    400290: Short Leg 4
+    400292: Short Leg 5
+    400294: Short Leg 6
+    400296: Short Leg 7
+    400298: Short Leg 8
+    400300: Short Leg 9
+    400302: sm top
+    400304: sm top#1
+    400306: Small Round
+    400308: Speaker_Stand
+    400310: Speaker_Stand 1
+    400312: 'Speakers - Book Shelf '
+    400314: Speakers - Book Shelf  1
+    400316: Tall Leg
+    400318: Tall Leg 1
+    400320: Tall Leg 2
+    400322: Tall Leg 3
+    400324: TV
+    400326: //RootNode
+    2100000: _defaultMat
+    2100002: '[Wood Bamboo]'
+    2100004: '[Wood OSB]'
+    2100006: '[Wood Cherry Original]'
+    2100008: '[Color M08]'
+    2100010: '[Wood Floor Parquet]'
+    2100012: '[Wood Floor]'
+    2100014: '[Wood Veneer 01]'
+    2100016: '[Small Aggregate]'
+    2100018: '[Wood Lumber ButtJoined]'
+    2100020: '[Color M04]'
+    2100022: '[Wood Floor Light]'
+    2100024: '[Wood Floor Dark]'
+    2100026: '[Wood Fence]'
+    2100028: '[Roofing Shingles GAF Estates]'
+    2100030: '[Wood_Cherry_Original]1'
+    2100032: '[Wood_Cherry_Original]2'
+    2100034: _auto_
+    2100036: _auto_2
+    2100038: _auto_1
+    2100040: _auto_3
+    2100042: _47
+    2100044: _48
+    2100046: _80
+    2100048: '[Color_000]'
+    2100050: _GhostWhite_
+    2100052: 4
+    2100054: 12
+    2100056: 15
+    2100058: 6
+    2100060: 7
+    2100062: 11
+    2100064: cwinerack
+    2100066: chair-feet
+    2100068: BLACK PAINTINGS
+    2100070: '[0129_WhiteSmoke]'
+    2100072: 5
+    2100074: 14
+    2100076: 16
+    2100078: 2
+    2100080: 8
+    2100082: 10
+    2100084: '[Wood_Cherry_Original]3'
+    2100086: '[Wood_Cherry_Original]5'
+    2100088: '[Wood_Cherry_Original]4'
+    2100090: '[Wood_Bamboo_Medium]'
+    2100092: '[0035_Tan]'
+    2100094: _4
+    2100096: _9
+    2100098: '[Color_008]1'
+    2100100: '[Color_005]'
+    2100102: '[Color_007]'
+    2100104: '[Color_009]'
+    2100106: '[Color_002]'
+    2100108: '[Color_006]'
+    2100110: '[Color_I19]'
+    2100112: _Charcoal_
+    2100114: _5
+    2100116: _DarkGray_
+    2100118: _10
+    2300000: '[Round]'
+    2300002: '[Round] 1'
+    2300004: '[Round] 10'
+    2300006: '[Round] 11'
+    2300008: '[Round] 12'
+    2300010: '[Round] 13'
+    2300012: '[Round] 14'
+    2300014: '[Round] 15'
+    2300016: '[Round] 16'
+    2300018: '[Round] 17'
+    2300020: '[Round] 18'
+    2300022: '[Round] 19'
+    2300024: '[Round] 2'
+    2300026: '[Round] 20'
+    2300028: '[Round] 21'
+    2300030: '[Round] 22'
+    2300032: '[Round] 23'
+    2300034: '[Round] 24'
+    2300036: '[Round] 25'
+    2300038: '[Round] 26'
+    2300040: '[Round] 27'
+    2300042: '[Round] 28'
+    2300044: '[Round] 29'
+    2300046: '[Round] 3'
+    2300048: '[Round] 30'
+    2300050: '[Round] 31'
+    2300052: '[Round] 32'
+    2300054: '[Round] 33'
+    2300056: '[Round] 34'
+    2300058: '[Round] 35'
+    2300060: '[Round] 36'
+    2300062: '[Round] 37'
+    2300064: '[Round] 38'
+    2300066: '[Round] 39'
+    2300068: '[Round] 4'
+    2300070: '[Round] 40'
+    2300072: '[Round] 41'
+    2300074: '[Round] 42'
+    2300076: '[Round] 43'
+    2300078: '[Round] 44'
+    2300080: '[Round] 45'
+    2300082: '[Round] 5'
+    2300084: '[Round] 6'
+    2300086: '[Round] 7'
+    2300088: '[Round] 8'
+    2300090: '[Round] 9'
+    2300092: Component#106
+    2300094: Component#106 1
+    2300096: Component#107
+    2300098: Component#108
+    2300100: Component#108 1
+    2300102: Component#109
+    2300104: Component#109 1
+    2300106: Component#110
+    2300108: Component#111
+    2300110: Component#111 1
+    2300112: Component#112
+    2300114: Component#116
+    2300116: Component#116 1
+    2300118: Component#116 2
+    2300120: Component#116 3
+    2300122: Component#12
+    2300124: Component#162
+    2300126: Component#22
+    2300128: Component#22 1
+    2300130: Component#22 2
+    2300132: Component#22 3
+    2300134: Component#23
+    2300136: Component#23 1
+    2300138: Component#24
+    2300140: Component#24 1
+    2300142: Component#3
+    2300144: Component#8
+    2300146: Component#84
+    2300148: Component#86
+    2300150: Component#86 1
+    2300152: desk
+    2300154: doorknob_half
+    2300156: doorknob_half 1
+    2300158: doorknob_half 2
+    2300160: doorknob_half 3
+    2300162: Foot
+    2300164: Foot 1
+    2300166: Foot 2
+    2300168: Foot 3
+    2300170: Foot 4
+    2300172: Foot 5
+    2300174: Group 123
+    2300176: Group 125
+    2300178: Group 127
+    2300180: Group 129
+    2300182: Group 131
+    2300184: Group 146
+    2300186: Group 148
+    2300188: Group 150
+    2300190: Group 152
+    2300192: Group 154
+    2300194: Group 156
+    2300196: Group 205
+    2300198: Group 207
+    2300200: Group 209
+    2300202: Group 211
+    2300204: Group 213
+    2300206: Group 64
+    2300208: Group 66
+    2300210: Group 68
+    2300212: Group 70
+    2300214: Group 72
+    2300216: Group 74
+    2300218: Group#48
+    2300220: Group#48 1
+    2300222: Group#48 2
+    2300224: Group#48 3
+    2300226: Lower Seat
+    2300228: Lower Seat 1
+    2300230: Lower Seat 2
+    2300232: Lower Seat 3
+    2300234: New leg
+    2300236: New leg 1
+    2300238: New leg 2
+    2300240: New leg 3
+    2300242: SAMSUNG
+    2300244: Short Leg
+    2300246: Short Leg 1
+    2300248: Short Leg 10
+    2300250: Short Leg 11
+    2300252: Short Leg 2
+    2300254: Short Leg 3
+    2300256: Short Leg 4
+    2300258: Short Leg 5
+    2300260: Short Leg 6
+    2300262: Short Leg 7
+    2300264: Short Leg 8
+    2300266: Short Leg 9
+    2300268: sm top
+    2300270: sm top#1
+    2300272: Speaker_Stand
+    2300274: Speaker_Stand 1
+    2300276: 'Speakers - Book Shelf '
+    2300278: Speakers - Book Shelf  1
+    2300280: Tall Leg
+    2300282: Tall Leg 1
+    2300284: Tall Leg 2
+    2300286: Tall Leg 3
+    2300288: TV
+    2300290: //RootNode
+    3300000: '[Round]'
+    3300002: '[Round] 1'
+    3300004: '[Round] 10'
+    3300006: '[Round] 11'
+    3300008: '[Round] 12'
+    3300010: '[Round] 13'
+    3300012: '[Round] 14'
+    3300014: '[Round] 15'
+    3300016: '[Round] 16'
+    3300018: '[Round] 17'
+    3300020: '[Round] 18'
+    3300022: '[Round] 19'
+    3300024: '[Round] 2'
+    3300026: '[Round] 20'
+    3300028: '[Round] 21'
+    3300030: '[Round] 22'
+    3300032: '[Round] 23'
+    3300034: '[Round] 24'
+    3300036: '[Round] 25'
+    3300038: '[Round] 26'
+    3300040: '[Round] 27'
+    3300042: '[Round] 28'
+    3300044: '[Round] 29'
+    3300046: '[Round] 3'
+    3300048: '[Round] 30'
+    3300050: '[Round] 31'
+    3300052: '[Round] 32'
+    3300054: '[Round] 33'
+    3300056: '[Round] 34'
+    3300058: '[Round] 35'
+    3300060: '[Round] 36'
+    3300062: '[Round] 37'
+    3300064: '[Round] 38'
+    3300066: '[Round] 39'
+    3300068: '[Round] 4'
+    3300070: '[Round] 40'
+    3300072: '[Round] 41'
+    3300074: '[Round] 42'
+    3300076: '[Round] 43'
+    3300078: '[Round] 44'
+    3300080: '[Round] 45'
+    3300082: '[Round] 5'
+    3300084: '[Round] 6'
+    3300086: '[Round] 7'
+    3300088: '[Round] 8'
+    3300090: '[Round] 9'
+    3300092: Component#106
+    3300094: Component#106 1
+    3300096: Component#107
+    3300098: Component#108
+    3300100: Component#108 1
+    3300102: Component#109
+    3300104: Component#109 1
+    3300106: Component#110
+    3300108: Component#111
+    3300110: Component#111 1
+    3300112: Component#112
+    3300114: Component#116
+    3300116: Component#116 1
+    3300118: Component#116 2
+    3300120: Component#116 3
+    3300122: Component#12
+    3300124: Component#162
+    3300126: Component#22
+    3300128: Component#22 1
+    3300130: Component#22 2
+    3300132: Component#22 3
+    3300134: Component#23
+    3300136: Component#23 1
+    3300138: Component#24
+    3300140: Component#24 1
+    3300142: Component#3
+    3300144: Component#8
+    3300146: Component#84
+    3300148: Component#86
+    3300150: Component#86 1
+    3300152: desk
+    3300154: doorknob_half
+    3300156: doorknob_half 1
+    3300158: doorknob_half 2
+    3300160: doorknob_half 3
+    3300162: Foot
+    3300164: Foot 1
+    3300166: Foot 2
+    3300168: Foot 3
+    3300170: Foot 4
+    3300172: Foot 5
+    3300174: Group 123
+    3300176: Group 125
+    3300178: Group 127
+    3300180: Group 129
+    3300182: Group 131
+    3300184: Group 146
+    3300186: Group 148
+    3300188: Group 150
+    3300190: Group 152
+    3300192: Group 154
+    3300194: Group 156
+    3300196: Group 205
+    3300198: Group 207
+    3300200: Group 209
+    3300202: Group 211
+    3300204: Group 213
+    3300206: Group 64
+    3300208: Group 66
+    3300210: Group 68
+    3300212: Group 70
+    3300214: Group 72
+    3300216: Group 74
+    3300218: Group#48
+    3300220: Group#48 1
+    3300222: Group#48 2
+    3300224: Group#48 3
+    3300226: Lower Seat
+    3300228: Lower Seat 1
+    3300230: Lower Seat 2
+    3300232: Lower Seat 3
+    3300234: New leg
+    3300236: New leg 1
+    3300238: New leg 2
+    3300240: New leg 3
+    3300242: SAMSUNG
+    3300244: Short Leg
+    3300246: Short Leg 1
+    3300248: Short Leg 10
+    3300250: Short Leg 11
+    3300252: Short Leg 2
+    3300254: Short Leg 3
+    3300256: Short Leg 4
+    3300258: Short Leg 5
+    3300260: Short Leg 6
+    3300262: Short Leg 7
+    3300264: Short Leg 8
+    3300266: Short Leg 9
+    3300268: sm top
+    3300270: sm top#1
+    3300272: Speaker_Stand
+    3300274: Speaker_Stand 1
+    3300276: 'Speakers - Book Shelf '
+    3300278: Speakers - Book Shelf  1
+    3300280: Tall Leg
+    3300282: Tall Leg 1
+    3300284: Tall Leg 2
+    3300286: Tall Leg 3
+    3300288: TV
+    3300290: //RootNode
+    4300000: Mesh wooden+house (2)_SU2017
+    4300002: Mesh Component#3
+    4300004: Mesh New leg
+    4300006: Mesh sm top
+    4300008: Mesh sm top#1
+    4300010: Mesh Component#8
+    4300012: Mesh Component#116
+    4300014: Mesh Component#86
+    4300016: Mesh Component#107
+    4300018: Mesh Component#109
+    4300020: Mesh Component#106
+    4300022: Mesh Component#111
+    4300024: Mesh Component#110
+    4300026: Mesh Component#108
+    4300028: Mesh Component#84
+    4300030: Mesh Component#112
+    4300032: Mesh Component#162
+    4300034: Mesh Group 64
+    4300036: Mesh Group 66
+    4300038: Mesh Group 68
+    4300040: Mesh Group 70
+    4300042: Mesh Group 72
+    4300044: Mesh Group 74
+    4300046: Mesh [Round]
+    4300048: Mesh [Round]
+    4300050: Mesh [Round]
+    4300052: Mesh [Round]
+    4300054: Mesh [Round]
+    4300056: Mesh [Round]
+    4300058: Mesh [Round]
+    4300060: Mesh [Round]
+    4300062: Mesh [Round]
+    4300064: Mesh [Round]
+    4300066: Mesh [Round]
+    4300068: Mesh [Round]
+    4300070: Mesh [Round]
+    4300072: Mesh [Round]
+    4300074: Mesh [Round]
+    4300076: Mesh [Round]
+    4300078: Mesh [Round]
+    4300080: Mesh [Round]
+    4300082: Mesh [Round]
+    4300084: Mesh [Round]
+    4300086: Mesh [Round]
+    4300088: Mesh [Round]
+    4300090: Mesh [Round]
+    4300092: Mesh Group 123
+    4300094: Mesh Group 125
+    4300096: Mesh Group 127
+    4300098: Mesh Group#48
+    4300100: Mesh Component#22
+    4300102: Mesh Component#23
+    4300104: Mesh Component#24
+    4300106: Mesh Group 146
+    4300108: Mesh Group 148
+    4300110: Mesh Group 150
+    4300112: Mesh Group 152
+    4300114: Mesh Group 154
+    4300116: Mesh Group 156
+    4300118: Mesh desk
+    4300120: Mesh Short Leg
+    4300122: Mesh Tall Leg
+    4300124: Mesh Lower Seat
+    4300126: Mesh Component#12
+    4300128: Mesh TV
+    4300130: Mesh SAMSUNG
+    4300132: Mesh Speaker_Stand
+    4300134: 'Mesh Speakers - Book Shelf '
+    4300136: Mesh Foot
+    4300138: Mesh Speaker_Stand
+    4300140: 'Mesh Speakers - Book Shelf '
+    4300142: Mesh doorknob_half
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

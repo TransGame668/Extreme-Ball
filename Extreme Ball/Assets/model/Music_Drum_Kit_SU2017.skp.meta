@@ -1,0 +1,725 @@
+fileFormatVersion: 2
+guid: c9a044d9dbb504240879f09d5fc33512
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000
+  assetHash:
+    serializedVersion: 2
+    Hash: fa257dd11adbedbb7311e757fd57932b
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.7021067, y: 1.1423942, z: -1.6679351}
+      lookAt: {x: 0.988186, y: 0.48564714, z: 0.52993655}
+      up: {x: -0.08445294, y: 0.96190935, z: 0.2599963}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Clamp
+    100002: Clamp 1
+    100004: Clamp 10
+    100006: Clamp 11
+    100008: Clamp 12
+    100010: Clamp 13
+    100012: Clamp 14
+    100014: Clamp 15
+    100016: Clamp 16
+    100018: Clamp 17
+    100020: Clamp 18
+    100022: Clamp 19
+    100024: Clamp 2
+    100026: Clamp 20
+    100028: Clamp 21
+    100030: Clamp 22
+    100032: Clamp 23
+    100034: Clamp 24
+    100036: Clamp 25
+    100038: Clamp 26
+    100040: Clamp 27
+    100042: Clamp 28
+    100044: Clamp 29
+    100046: Clamp 3
+    100048: Clamp 30
+    100050: Clamp 31
+    100052: Clamp 32
+    100054: Clamp 33
+    100056: Clamp 34
+    100058: Clamp 35
+    100060: Clamp 36
+    100062: Clamp 37
+    100064: Clamp 38
+    100066: Clamp 39
+    100068: Clamp 4
+    100070: Clamp 40
+    100072: Clamp 41
+    100074: Clamp 42
+    100076: Clamp 43
+    100078: Clamp 44
+    100080: Clamp 45
+    100082: Clamp 46
+    100084: Clamp 47
+    100086: Clamp 48
+    100088: Clamp 49
+    100090: Clamp 5
+    100092: Clamp 50
+    100094: Clamp 51
+    100096: Clamp 52
+    100098: Clamp 53
+    100100: Clamp 54
+    100102: Clamp 55
+    100104: Clamp 56
+    100106: Clamp 57
+    100108: Clamp 58
+    100110: Clamp 59
+    100112: Clamp 6
+    100114: Clamp 60
+    100116: Clamp 61
+    100118: Clamp 62
+    100120: Clamp 63
+    100122: Clamp 64
+    100124: Clamp 65
+    100126: Clamp 66
+    100128: Clamp 67
+    100130: Clamp 68
+    100132: Clamp 69
+    100134: Clamp 7
+    100136: Clamp 70
+    100138: Clamp 71
+    100140: Clamp 72
+    100142: Clamp 73
+    100144: Clamp 74
+    100146: Clamp 75
+    100148: Clamp 76
+    100150: Clamp 77
+    100152: Clamp 78
+    100154: Clamp 79
+    100156: Clamp 8
+    100158: Clamp 80
+    100160: Clamp 81
+    100162: Clamp 82
+    100164: Clamp 83
+    100166: Clamp 84
+    100168: Clamp 85
+    100170: Clamp 86
+    100172: Clamp 87
+    100174: Clamp 88
+    100176: Clamp 89
+    100178: Clamp 9
+    100180: Clamp 90
+    100182: Clamp 91
+    100184: Clamp 92
+    100186: Clamp 93
+    100188: Clamp 94
+    100190: Clamp 95
+    100192: Cymbal
+    100194: Cymbal 1
+    100196: Cymbal 2
+    100198: Cymbal 3
+    100200: Drum
+    100202: Drum 1
+    100204: Drum 2
+    100206: Drum 3
+    100208: Drum_Half
+    100210: Drum_Half 1
+    100212: Drum_Half 10
+    100214: Drum_Half 11
+    100216: Drum_Half 12
+    100218: Drum_Half 13
+    100220: Drum_Half 14
+    100222: Drum_Half 15
+    100224: Drum_Half 2
+    100226: Drum_Half 3
+    100228: Drum_Half 4
+    100230: Drum_Half 5
+    100232: Drum_Half 6
+    100234: Drum_Half 7
+    100236: Drum_Half 8
+    100238: Drum_Half 9
+    100240: //RootNode
+    100242: Seat
+    100244: Stand
+    100246: Stand 1
+    100248: Stand 2
+    100250: Stand 3
+    100252: Stand 4
+    100254: Stand 5
+    100256: Stand 6
+    100258: Stand 7
+    100260: Stand_Leg
+    100262: Stand_Leg 1
+    100264: Stand_Leg 10
+    100266: Stand_Leg 11
+    100268: Stand_Leg 12
+    100270: Stand_Leg 13
+    100272: Stand_Leg 14
+    100274: Stand_Leg 15
+    100276: Stand_Leg 16
+    100278: Stand_Leg 17
+    100280: Stand_Leg 18
+    100282: Stand_Leg 19
+    100284: Stand_Leg 2
+    100286: Stand_Leg 20
+    100288: Stand_Leg 21
+    100290: Stand_Leg 22
+    100292: Stand_Leg 23
+    100294: Stand_Leg 3
+    100296: Stand_Leg 4
+    100298: Stand_Leg 5
+    100300: Stand_Leg 6
+    100302: Stand_Leg 7
+    100304: Stand_Leg 8
+    100306: Stand_Leg 9
+    400000: Clamp
+    400002: Clamp 1
+    400004: Clamp 10
+    400006: Clamp 11
+    400008: Clamp 12
+    400010: Clamp 13
+    400012: Clamp 14
+    400014: Clamp 15
+    400016: Clamp 16
+    400018: Clamp 17
+    400020: Clamp 18
+    400022: Clamp 19
+    400024: Clamp 2
+    400026: Clamp 20
+    400028: Clamp 21
+    400030: Clamp 22
+    400032: Clamp 23
+    400034: Clamp 24
+    400036: Clamp 25
+    400038: Clamp 26
+    400040: Clamp 27
+    400042: Clamp 28
+    400044: Clamp 29
+    400046: Clamp 3
+    400048: Clamp 30
+    400050: Clamp 31
+    400052: Clamp 32
+    400054: Clamp 33
+    400056: Clamp 34
+    400058: Clamp 35
+    400060: Clamp 36
+    400062: Clamp 37
+    400064: Clamp 38
+    400066: Clamp 39
+    400068: Clamp 4
+    400070: Clamp 40
+    400072: Clamp 41
+    400074: Clamp 42
+    400076: Clamp 43
+    400078: Clamp 44
+    400080: Clamp 45
+    400082: Clamp 46
+    400084: Clamp 47
+    400086: Clamp 48
+    400088: Clamp 49
+    400090: Clamp 5
+    400092: Clamp 50
+    400094: Clamp 51
+    400096: Clamp 52
+    400098: Clamp 53
+    400100: Clamp 54
+    400102: Clamp 55
+    400104: Clamp 56
+    400106: Clamp 57
+    400108: Clamp 58
+    400110: Clamp 59
+    400112: Clamp 6
+    400114: Clamp 60
+    400116: Clamp 61
+    400118: Clamp 62
+    400120: Clamp 63
+    400122: Clamp 64
+    400124: Clamp 65
+    400126: Clamp 66
+    400128: Clamp 67
+    400130: Clamp 68
+    400132: Clamp 69
+    400134: Clamp 7
+    400136: Clamp 70
+    400138: Clamp 71
+    400140: Clamp 72
+    400142: Clamp 73
+    400144: Clamp 74
+    400146: Clamp 75
+    400148: Clamp 76
+    400150: Clamp 77
+    400152: Clamp 78
+    400154: Clamp 79
+    400156: Clamp 8
+    400158: Clamp 80
+    400160: Clamp 81
+    400162: Clamp 82
+    400164: Clamp 83
+    400166: Clamp 84
+    400168: Clamp 85
+    400170: Clamp 86
+    400172: Clamp 87
+    400174: Clamp 88
+    400176: Clamp 89
+    400178: Clamp 9
+    400180: Clamp 90
+    400182: Clamp 91
+    400184: Clamp 92
+    400186: Clamp 93
+    400188: Clamp 94
+    400190: Clamp 95
+    400192: Cymbal
+    400194: Cymbal 1
+    400196: Cymbal 2
+    400198: Cymbal 3
+    400200: Drum
+    400202: Drum 1
+    400204: Drum 2
+    400206: Drum 3
+    400208: Drum_Half
+    400210: Drum_Half 1
+    400212: Drum_Half 10
+    400214: Drum_Half 11
+    400216: Drum_Half 12
+    400218: Drum_Half 13
+    400220: Drum_Half 14
+    400222: Drum_Half 15
+    400224: Drum_Half 2
+    400226: Drum_Half 3
+    400228: Drum_Half 4
+    400230: Drum_Half 5
+    400232: Drum_Half 6
+    400234: Drum_Half 7
+    400236: Drum_Half 8
+    400238: Drum_Half 9
+    400240: //RootNode
+    400242: Seat
+    400244: Stand
+    400246: Stand 1
+    400248: Stand 2
+    400250: Stand 3
+    400252: Stand 4
+    400254: Stand 5
+    400256: Stand 6
+    400258: Stand 7
+    400260: Stand_Leg
+    400262: Stand_Leg 1
+    400264: Stand_Leg 10
+    400266: Stand_Leg 11
+    400268: Stand_Leg 12
+    400270: Stand_Leg 13
+    400272: Stand_Leg 14
+    400274: Stand_Leg 15
+    400276: Stand_Leg 16
+    400278: Stand_Leg 17
+    400280: Stand_Leg 18
+    400282: Stand_Leg 19
+    400284: Stand_Leg 2
+    400286: Stand_Leg 20
+    400288: Stand_Leg 21
+    400290: Stand_Leg 22
+    400292: Stand_Leg 23
+    400294: Stand_Leg 3
+    400296: Stand_Leg 4
+    400298: Stand_Leg 5
+    400300: Stand_Leg 6
+    400302: Stand_Leg 7
+    400304: Stand_Leg 8
+    400306: Stand_Leg 9
+    2100000: Stand_Silver
+    2100002: Seat_Charcoal
+    2100004: Drum_Gray
+    2100006: Drum_Snow
+    2100008: Cymbal_Khaki
+    2300000: Clamp
+    2300002: Clamp 1
+    2300004: Clamp 10
+    2300006: Clamp 11
+    2300008: Clamp 12
+    2300010: Clamp 13
+    2300012: Clamp 14
+    2300014: Clamp 15
+    2300016: Clamp 16
+    2300018: Clamp 17
+    2300020: Clamp 18
+    2300022: Clamp 19
+    2300024: Clamp 2
+    2300026: Clamp 20
+    2300028: Clamp 21
+    2300030: Clamp 22
+    2300032: Clamp 23
+    2300034: Clamp 24
+    2300036: Clamp 25
+    2300038: Clamp 26
+    2300040: Clamp 27
+    2300042: Clamp 28
+    2300044: Clamp 29
+    2300046: Clamp 3
+    2300048: Clamp 30
+    2300050: Clamp 31
+    2300052: Clamp 32
+    2300054: Clamp 33
+    2300056: Clamp 34
+    2300058: Clamp 35
+    2300060: Clamp 36
+    2300062: Clamp 37
+    2300064: Clamp 38
+    2300066: Clamp 39
+    2300068: Clamp 4
+    2300070: Clamp 40
+    2300072: Clamp 41
+    2300074: Clamp 42
+    2300076: Clamp 43
+    2300078: Clamp 44
+    2300080: Clamp 45
+    2300082: Clamp 46
+    2300084: Clamp 47
+    2300086: Clamp 48
+    2300088: Clamp 49
+    2300090: Clamp 5
+    2300092: Clamp 50
+    2300094: Clamp 51
+    2300096: Clamp 52
+    2300098: Clamp 53
+    2300100: Clamp 54
+    2300102: Clamp 55
+    2300104: Clamp 56
+    2300106: Clamp 57
+    2300108: Clamp 58
+    2300110: Clamp 59
+    2300112: Clamp 6
+    2300114: Clamp 60
+    2300116: Clamp 61
+    2300118: Clamp 62
+    2300120: Clamp 63
+    2300122: Clamp 64
+    2300124: Clamp 65
+    2300126: Clamp 66
+    2300128: Clamp 67
+    2300130: Clamp 68
+    2300132: Clamp 69
+    2300134: Clamp 7
+    2300136: Clamp 70
+    2300138: Clamp 71
+    2300140: Clamp 72
+    2300142: Clamp 73
+    2300144: Clamp 74
+    2300146: Clamp 75
+    2300148: Clamp 76
+    2300150: Clamp 77
+    2300152: Clamp 78
+    2300154: Clamp 79
+    2300156: Clamp 8
+    2300158: Clamp 80
+    2300160: Clamp 81
+    2300162: Clamp 82
+    2300164: Clamp 83
+    2300166: Clamp 84
+    2300168: Clamp 85
+    2300170: Clamp 86
+    2300172: Clamp 87
+    2300174: Clamp 88
+    2300176: Clamp 89
+    2300178: Clamp 9
+    2300180: Clamp 90
+    2300182: Clamp 91
+    2300184: Clamp 92
+    2300186: Clamp 93
+    2300188: Clamp 94
+    2300190: Clamp 95
+    2300192: Cymbal
+    2300194: Cymbal 1
+    2300196: Cymbal 2
+    2300198: Cymbal 3
+    2300200: Drum_Half
+    2300202: Drum_Half 1
+    2300204: Drum_Half 10
+    2300206: Drum_Half 11
+    2300208: Drum_Half 12
+    2300210: Drum_Half 13
+    2300212: Drum_Half 14
+    2300214: Drum_Half 15
+    2300216: Drum_Half 2
+    2300218: Drum_Half 3
+    2300220: Drum_Half 4
+    2300222: Drum_Half 5
+    2300224: Drum_Half 6
+    2300226: Drum_Half 7
+    2300228: Drum_Half 8
+    2300230: Drum_Half 9
+    2300232: //RootNode
+    2300234: Seat
+    2300236: Stand
+    2300238: Stand 1
+    2300240: Stand 2
+    2300242: Stand 3
+    2300244: Stand 4
+    2300246: Stand 5
+    2300248: Stand 6
+    2300250: Stand 7
+    2300252: Stand_Leg
+    2300254: Stand_Leg 1
+    2300256: Stand_Leg 10
+    2300258: Stand_Leg 11
+    2300260: Stand_Leg 12
+    2300262: Stand_Leg 13
+    2300264: Stand_Leg 14
+    2300266: Stand_Leg 15
+    2300268: Stand_Leg 16
+    2300270: Stand_Leg 17
+    2300272: Stand_Leg 18
+    2300274: Stand_Leg 19
+    2300276: Stand_Leg 2
+    2300278: Stand_Leg 20
+    2300280: Stand_Leg 21
+    2300282: Stand_Leg 22
+    2300284: Stand_Leg 23
+    2300286: Stand_Leg 3
+    2300288: Stand_Leg 4
+    2300290: Stand_Leg 5
+    2300292: Stand_Leg 6
+    2300294: Stand_Leg 7
+    2300296: Stand_Leg 8
+    2300298: Stand_Leg 9
+    3300000: Clamp
+    3300002: Clamp 1
+    3300004: Clamp 10
+    3300006: Clamp 11
+    3300008: Clamp 12
+    3300010: Clamp 13
+    3300012: Clamp 14
+    3300014: Clamp 15
+    3300016: Clamp 16
+    3300018: Clamp 17
+    3300020: Clamp 18
+    3300022: Clamp 19
+    3300024: Clamp 2
+    3300026: Clamp 20
+    3300028: Clamp 21
+    3300030: Clamp 22
+    3300032: Clamp 23
+    3300034: Clamp 24
+    3300036: Clamp 25
+    3300038: Clamp 26
+    3300040: Clamp 27
+    3300042: Clamp 28
+    3300044: Clamp 29
+    3300046: Clamp 3
+    3300048: Clamp 30
+    3300050: Clamp 31
+    3300052: Clamp 32
+    3300054: Clamp 33
+    3300056: Clamp 34
+    3300058: Clamp 35
+    3300060: Clamp 36
+    3300062: Clamp 37
+    3300064: Clamp 38
+    3300066: Clamp 39
+    3300068: Clamp 4
+    3300070: Clamp 40
+    3300072: Clamp 41
+    3300074: Clamp 42
+    3300076: Clamp 43
+    3300078: Clamp 44
+    3300080: Clamp 45
+    3300082: Clamp 46
+    3300084: Clamp 47
+    3300086: Clamp 48
+    3300088: Clamp 49
+    3300090: Clamp 5
+    3300092: Clamp 50
+    3300094: Clamp 51
+    3300096: Clamp 52
+    3300098: Clamp 53
+    3300100: Clamp 54
+    3300102: Clamp 55
+    3300104: Clamp 56
+    3300106: Clamp 57
+    3300108: Clamp 58
+    3300110: Clamp 59
+    3300112: Clamp 6
+    3300114: Clamp 60
+    3300116: Clamp 61
+    3300118: Clamp 62
+    3300120: Clamp 63
+    3300122: Clamp 64
+    3300124: Clamp 65
+    3300126: Clamp 66
+    3300128: Clamp 67
+    3300130: Clamp 68
+    3300132: Clamp 69
+    3300134: Clamp 7
+    3300136: Clamp 70
+    3300138: Clamp 71
+    3300140: Clamp 72
+    3300142: Clamp 73
+    3300144: Clamp 74
+    3300146: Clamp 75
+    3300148: Clamp 76
+    3300150: Clamp 77
+    3300152: Clamp 78
+    3300154: Clamp 79
+    3300156: Clamp 8
+    3300158: Clamp 80
+    3300160: Clamp 81
+    3300162: Clamp 82
+    3300164: Clamp 83
+    3300166: Clamp 84
+    3300168: Clamp 85
+    3300170: Clamp 86
+    3300172: Clamp 87
+    3300174: Clamp 88
+    3300176: Clamp 89
+    3300178: Clamp 9
+    3300180: Clamp 90
+    3300182: Clamp 91
+    3300184: Clamp 92
+    3300186: Clamp 93
+    3300188: Clamp 94
+    3300190: Clamp 95
+    3300192: Cymbal
+    3300194: Cymbal 1
+    3300196: Cymbal 2
+    3300198: Cymbal 3
+    3300200: Drum_Half
+    3300202: Drum_Half 1
+    3300204: Drum_Half 10
+    3300206: Drum_Half 11
+    3300208: Drum_Half 12
+    3300210: Drum_Half 13
+    3300212: Drum_Half 14
+    3300214: Drum_Half 15
+    3300216: Drum_Half 2
+    3300218: Drum_Half 3
+    3300220: Drum_Half 4
+    3300222: Drum_Half 5
+    3300224: Drum_Half 6
+    3300226: Drum_Half 7
+    3300228: Drum_Half 8
+    3300230: Drum_Half 9
+    3300232: //RootNode
+    3300234: Seat
+    3300236: Stand
+    3300238: Stand 1
+    3300240: Stand 2
+    3300242: Stand 3
+    3300244: Stand 4
+    3300246: Stand 5
+    3300248: Stand 6
+    3300250: Stand 7
+    3300252: Stand_Leg
+    3300254: Stand_Leg 1
+    3300256: Stand_Leg 10
+    3300258: Stand_Leg 11
+    3300260: Stand_Leg 12
+    3300262: Stand_Leg 13
+    3300264: Stand_Leg 14
+    3300266: Stand_Leg 15
+    3300268: Stand_Leg 16
+    3300270: Stand_Leg 17
+    3300272: Stand_Leg 18
+    3300274: Stand_Leg 19
+    3300276: Stand_Leg 2
+    3300278: Stand_Leg 20
+    3300280: Stand_Leg 21
+    3300282: Stand_Leg 22
+    3300284: Stand_Leg 23
+    3300286: Stand_Leg 3
+    3300288: Stand_Leg 4
+    3300290: Stand_Leg 5
+    3300292: Stand_Leg 6
+    3300294: Stand_Leg 7
+    3300296: Stand_Leg 8
+    3300298: Stand_Leg 9
+    4300000: Mesh Music_Drum_Kit_SU2017
+    4300002: Mesh Drum_Half
+    4300004: Mesh Clamp
+    4300006: Mesh Stand
+    4300008: Mesh Stand_Leg
+    4300010: Mesh Cymbal
+    4300012: Mesh Seat
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

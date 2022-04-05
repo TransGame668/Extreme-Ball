@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: 949e71f01a142c344b44c431da963f67
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f00000030000000310000003200000033000000340000003500000036000000370000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 26ca4a8a3c0d71652944e259a6aa9401
+  longitude: 105.85
+  latitude: 21.033
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 72.97737, y: 9.029522, z: -45.383606}
+      lookAt: {x: 59.635124, y: 7.746157, z: -35.78045}
+      up: {x: -0.06317074, y: 0.99696654, z: 0.04546748}
+      fov: 41.21358
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 77.5714, y: 5.8134108, z: -41.94416}
+        lookAt: {x: 63.27889, y: 6.0639644, z: -33.725597}
+        up: {x: 0.013172751, y: 0.99988455, z: -0.0075746733}
+        fov: 41.21358
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 2
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1 1
+    100004: 1 2
+    100006: 1 3
+    100008: 1 4
+    100010: 1 5
+    100012: 2
+    100014: 2 1
+    100016: 2 10
+    100018: 2 11
+    100020: 2 2
+    100022: 2 3
+    100024: 2 4
+    100026: 2 5
+    100028: 2 6
+    100030: 2 7
+    100032: 2 8
+    100034: 2 9
+    100036: A$C02A62690
+    100038: A$C02A62690 1
+    100040: A$C2A113CDB
+    100042: A$C2A113CDB 1
+    100044: A$C34B60CAE
+    100046: A$C34B60CAE 1
+    100048: A$C34B60CAE 2
+    100050: A$C34B60CAE 3
+    100052: A$C418352BF
+    100054: A$C418352BF 1
+    100056: //RootNode
+    100058: Component#1
+    100060: Component#2
+    100062: Component#2 1
+    100064: Component#3
+    100066: Component#3 1
+    100068: Component#3 2
+    100070: Component#3 3
+    100072: Component#3 4
+    100074: Component#3 5
+    100076: Component#3 6
+    100078: Component#4
+    100080: Component#6
+    100082: Component#6 1
+    100084: cot 1
+    100086: cot 1 1
+    100088: cot 1 10
+    100090: cot 1 11
+    100092: cot 1 12
+    100094: cot 1 13
+    100096: cot 1 14
+    100098: cot 1 15
+    100100: cot 1 16
+    100102: cot 1 17
+    100104: cot 1 2
+    100106: cot 1 3
+    100108: cot 1 4
+    100110: cot 1 5
+    100112: cot 1 6
+    100114: cot 1 7
+    100116: cot 1 8
+    100118: cot 1 9
+    100120: cot 2
+    100122: cot 2 1
+    100124: cot 2 2
+    100126: cot 2 3
+    100128: COT-1
+    100130: COT-1 1
+    100132: COT-2
+    100134: COT-2 1
+    100136: COT-2 10
+    100138: COT-2 11
+    100140: COT-2 12
+    100142: COT-2 13
+    100144: COT-2 14
+    100146: COT-2 15
+    100148: COT-2 16
+    100150: COT-2 17
+    100152: COT-2 18
+    100154: COT-2 19
+    100156: COT-2 2
+    100158: COT-2 20
+    100160: COT-2 21
+    100162: COT-2 22
+    100164: COT-2 3
+    100166: COT-2 4
+    100168: COT-2 5
+    100170: COT-2 6
+    100172: COT-2 7
+    100174: COT-2 8
+    100176: COT-2 9
+    100178: CUA-2-1200
+    100180: CUA-2-1200 1
+    100182: CUA-2-1600
+    100184: CUA-2-1600 1
+    100186: CUA-2-1600 2
+    100188: CUA-2-1600 3
+    100190: Group 120
+    100192: Group 125
+    100194: Group 129
+    100196: Group 133
+    100198: Group 137
+    100200: Group 141
+    100202: Group 145
+    100204: Group 149
+    100206: Group 153
+    100208: Group 175
+    100210: Group 2
+    100212: Group 20
+    100214: Group 22
+    100216: Group 24
+    100218: Group 48
+    100220: Group 50
+    100222: Group 52
+    100224: Group 70
+    100226: Group 74
+    100228: Group 78
+    100230: Group 82
+    100232: Group 86
+    100234: Group 90
+    100236: Group 94
+    100238: Group 98
+    100240: Nancy
+    100242: NancyGlasses
+    100244: NancyJacket
+    100246: NancyPants
+    100248: NUAAAAAA
+    100250: NUAAAAAA 1
+    100252: 'WANG Collection:  Tree 2D "Face-Me" Component'
+    100254: 'WANG Collection:  Tree 2D "Face-Me" Component 1'
+    100256: 'WANG Collection:  Tree 2D "Face-Me" Component 2'
+    100258: 'WANG Collection:  Tree 2D "Face-Me" Component 3'
+    100260: 'WANG Collection:  Tree 2D "Face-Me" Component 4'
+    100262: 'WANG Collection:  Tree 2D "Face-Me" Component 5'
+    100264: 'WANG Collection:  Tree 2D "Face-Me" Component 6'
+    100266: 'WANG Collection:  Tree 2D "Face-Me" Component 7'
+    400000: 1
+    400002: 1 1
+    400004: 1 2
+    400006: 1 3
+    400008: 1 4
+    400010: 1 5
+    400012: 2
+    400014: 2 1
+    400016: 2 10
+    400018: 2 11
+    400020: 2 2
+    400022: 2 3
+    400024: 2 4
+    400026: 2 5
+    400028: 2 6
+    400030: 2 7
+    400032: 2 8
+    400034: 2 9
+    400036: A$C02A62690
+    400038: A$C02A62690 1
+    400040: A$C2A113CDB
+    400042: A$C2A113CDB 1
+    400044: A$C34B60CAE
+    400046: A$C34B60CAE 1
+    400048: A$C34B60CAE 2
+    400050: A$C34B60CAE 3
+    400052: A$C418352BF
+    400054: A$C418352BF 1
+    400056: //RootNode
+    400058: Component#1
+    400060: Component#2
+    400062: Component#2 1
+    400064: Component#3
+    400066: Component#3 1
+    400068: Component#3 2
+    400070: Component#3 3
+    400072: Component#3 4
+    400074: Component#3 5
+    400076: Component#3 6
+    400078: Component#4
+    400080: Component#6
+    400082: Component#6 1
+    400084: cot 1
+    400086: cot 1 1
+    400088: cot 1 10
+    400090: cot 1 11
+    400092: cot 1 12
+    400094: cot 1 13
+    400096: cot 1 14
+    400098: cot 1 15
+    400100: cot 1 16
+    400102: cot 1 17
+    400104: cot 1 2
+    400106: cot 1 3
+    400108: cot 1 4
+    400110: cot 1 5
+    400112: cot 1 6
+    400114: cot 1 7
+    400116: cot 1 8
+    400118: cot 1 9
+    400120: cot 2
+    400122: cot 2 1
+    400124: cot 2 2
+    400126: cot 2 3
+    400128: COT-1
+    400130: COT-1 1
+    400132: COT-2
+    400134: COT-2 1
+    400136: COT-2 10
+    400138: COT-2 11
+    400140: COT-2 12
+    400142: COT-2 13
+    400144: COT-2 14
+    400146: COT-2 15
+    400148: COT-2 16
+    400150: COT-2 17
+    400152: COT-2 18
+    400154: COT-2 19
+    400156: COT-2 2
+    400158: COT-2 20
+    400160: COT-2 21
+    400162: COT-2 22
+    400164: COT-2 3
+    400166: COT-2 4
+    400168: COT-2 5
+    400170: COT-2 6
+    400172: COT-2 7
+    400174: COT-2 8
+    400176: COT-2 9
+    400178: CUA-2-1200
+    400180: CUA-2-1200 1
+    400182: CUA-2-1600
+    400184: CUA-2-1600 1
+    400186: CUA-2-1600 2
+    400188: CUA-2-1600 3
+    400190: Group 120
+    400192: Group 125
+    400194: Group 129
+    400196: Group 133
+    400198: Group 137
+    400200: Group 141
+    400202: Group 145
+    400204: Group 149
+    400206: Group 153
+    400208: Group 175
+    400210: Group 2
+    400212: Group 20
+    400214: Group 22
+    400216: Group 24
+    400218: Group 48
+    400220: Group 50
+    400222: Group 52
+    400224: Group 70
+    400226: Group 74
+    400228: Group 78
+    400230: Group 82
+    400232: Group 86
+    400234: Group 90
+    400236: Group 94
+    400238: Group 98
+    400240: Nancy
+    400242: NancyGlasses
+    400244: NancyJacket
+    400246: NancyPants
+    400248: NUAAAAAA
+    400250: NUAAAAAA 1
+    400252: 'WANG Collection:  Tree 2D "Face-Me" Component'
+    400254: 'WANG Collection:  Tree 2D "Face-Me" Component 1'
+    400256: 'WANG Collection:  Tree 2D "Face-Me" Component 2'
+    400258: 'WANG Collection:  Tree 2D "Face-Me" Component 3'
+    400260: 'WANG Collection:  Tree 2D "Face-Me" Component 4'
+    400262: 'WANG Collection:  Tree 2D "Face-Me" Component 5'
+    400264: 'WANG Collection:  Tree 2D "Face-Me" Component 6'
+    400266: 'WANG Collection:  Tree 2D "Face-Me" Component 7'
+    2100000: _defaultMat
+    2100002: '[Color_001]'
+    2100004: 48,62,62
+    2100006: '[Color_F09]'
+    2100008: '[Water_Pool_Light]'
+    2100010: '[Color_003]'
+    2100012: '[Translucent_Glass_Blue]'
+    2100014: Wood_Border_Design2
+    2100016: '[Color_000]'
+    2100018: '[Roofing_Shingles_Wood]'
+    2100020: Vegetation_Boxwood
+    2100022: Stone_Granite_BluePearl
+    2100024: Concrete_Scored_Jointless
+    2100026: Color_004
+    2100028: '[Redwood]'
+    2100030: _Beige_2
+    2100032: '[Color_B23]'
+    2100034: '[Color_009]'
+    2100036: 62,48,54
+    2100038: '[Color_L25]'
+    2100040: '[Color_H25]'
+    2100042: red
+    2300000: 1
+    2300002: 1 1
+    2300004: 1 2
+    2300006: 1 3
+    2300008: 1 4
+    2300010: 1 5
+    2300012: 2
+    2300014: 2 1
+    2300016: 2 10
+    2300018: 2 11
+    2300020: 2 2
+    2300022: 2 3
+    2300024: 2 4
+    2300026: 2 5
+    2300028: 2 6
+    2300030: 2 7
+    2300032: 2 8
+    2300034: 2 9
+    2300036: //RootNode
+    2300038: Component#3
+    2300040: Component#3 1
+    2300042: Component#3 2
+    2300044: Component#3 3
+    2300046: Component#3 4
+    2300048: Component#3 5
+    2300050: Component#3 6
+    2300052: Component#4
+    2300054: Component#6
+    2300056: Component#6 1
+    2300058: cot 1
+    2300060: cot 1 1
+    2300062: cot 1 10
+    2300064: cot 1 11
+    2300066: cot 1 12
+    2300068: cot 1 13
+    2300070: cot 1 14
+    2300072: cot 1 15
+    2300074: cot 1 16
+    2300076: cot 1 17
+    2300078: cot 1 2
+    2300080: cot 1 3
+    2300082: cot 1 4
+    2300084: cot 1 5
+    2300086: cot 1 6
+    2300088: cot 1 7
+    2300090: cot 1 8
+    2300092: cot 1 9
+    2300094: cot 2
+    2300096: cot 2 1
+    2300098: cot 2 2
+    2300100: cot 2 3
+    2300102: Group 120
+    2300104: Group 125
+    2300106: Group 129
+    2300108: Group 133
+    2300110: Group 137
+    2300112: Group 141
+    2300114: Group 145
+    2300116: Group 149
+    2300118: Group 153
+    2300120: Group 175
+    2300122: Group 2
+    2300124: Group 20
+    2300126: Group 22
+    2300128: Group 24
+    2300130: Group 48
+    2300132: Group 50
+    2300134: Group 52
+    2300136: Group 70
+    2300138: Group 74
+    2300140: Group 78
+    2300142: Group 82
+    2300144: Group 86
+    2300146: Group 90
+    2300148: Group 94
+    2300150: Group 98
+    2300152: Nancy
+    2300154: NancyGlasses
+    2300156: NancyJacket
+    2300158: NancyPants
+    2300160: NUAAAAAA
+    2300162: NUAAAAAA 1
+    2300164: 'WANG Collection:  Tree 2D "Face-Me" Component'
+    2300166: 'WANG Collection:  Tree 2D "Face-Me" Component 1'
+    2300168: 'WANG Collection:  Tree 2D "Face-Me" Component 2'
+    2300170: 'WANG Collection:  Tree 2D "Face-Me" Component 3'
+    2300172: 'WANG Collection:  Tree 2D "Face-Me" Component 4'
+    2300174: 'WANG Collection:  Tree 2D "Face-Me" Component 5'
+    2300176: 'WANG Collection:  Tree 2D "Face-Me" Component 6'
+    2300178: 'WANG Collection:  Tree 2D "Face-Me" Component 7'
+    3300000: 1
+    3300002: 1 1
+    3300004: 1 2
+    3300006: 1 3
+    3300008: 1 4
+    3300010: 1 5
+    3300012: 2
+    3300014: 2 1
+    3300016: 2 10
+    3300018: 2 11
+    3300020: 2 2
+    3300022: 2 3
+    3300024: 2 4
+    3300026: 2 5
+    3300028: 2 6
+    3300030: 2 7
+    3300032: 2 8
+    3300034: 2 9
+    3300036: //RootNode
+    3300038: Component#3
+    3300040: Component#3 1
+    3300042: Component#3 2
+    3300044: Component#3 3
+    3300046: Component#3 4
+    3300048: Component#3 5
+    3300050: Component#3 6
+    3300052: Component#4
+    3300054: Component#6
+    3300056: Component#6 1
+    3300058: cot 1
+    3300060: cot 1 1
+    3300062: cot 1 10
+    3300064: cot 1 11
+    3300066: cot 1 12
+    3300068: cot 1 13
+    3300070: cot 1 14
+    3300072: cot 1 15
+    3300074: cot 1 16
+    3300076: cot 1 17
+    3300078: cot 1 2
+    3300080: cot 1 3
+    3300082: cot 1 4
+    3300084: cot 1 5
+    3300086: cot 1 6
+    3300088: cot 1 7
+    3300090: cot 1 8
+    3300092: cot 1 9
+    3300094: cot 2
+    3300096: cot 2 1
+    3300098: cot 2 2
+    3300100: cot 2 3
+    3300102: Group 120
+    3300104: Group 125
+    3300106: Group 129
+    3300108: Group 133
+    3300110: Group 137
+    3300112: Group 141
+    3300114: Group 145
+    3300116: Group 149
+    3300118: Group 153
+    3300120: Group 175
+    3300122: Group 2
+    3300124: Group 20
+    3300126: Group 22
+    3300128: Group 24
+    3300130: Group 48
+    3300132: Group 50
+    3300134: Group 52
+    3300136: Group 70
+    3300138: Group 74
+    3300140: Group 78
+    3300142: Group 82
+    3300144: Group 86
+    3300146: Group 90
+    3300148: Group 94
+    3300150: Group 98
+    3300152: Nancy
+    3300154: NancyGlasses
+    3300156: NancyJacket
+    3300158: NancyPants
+    3300160: NUAAAAAA
+    3300162: NUAAAAAA 1
+    3300164: 'WANG Collection:  Tree 2D "Face-Me" Component'
+    3300166: 'WANG Collection:  Tree 2D "Face-Me" Component 1'
+    3300168: 'WANG Collection:  Tree 2D "Face-Me" Component 2'
+    3300170: 'WANG Collection:  Tree 2D "Face-Me" Component 3'
+    3300172: 'WANG Collection:  Tree 2D "Face-Me" Component 4'
+    3300174: 'WANG Collection:  Tree 2D "Face-Me" Component 5'
+    3300176: 'WANG Collection:  Tree 2D "Face-Me" Component 6'
+    3300178: 'WANG Collection:  Tree 2D "Face-Me" Component 7'
+    4300000: Mesh AutoSave_HOI+TRUONG-09-03_SU2017
+    4300002: Mesh Group 2
+    4300004: Mesh Component#3
+    4300006: Mesh Component#4
+    4300008: Mesh Group 20
+    4300010: Mesh Group 22
+    4300012: Mesh Component#6
+    4300014: Mesh Group 48
+    4300016: Mesh NUAAAAAA
+    4300018: Mesh cot 2
+    4300020: Mesh cot 1
+    4300022: Mesh Group 70
+    4300024: Mesh 1
+    4300026: Mesh 2
+    4300028: Mesh cot 1
+    4300030: Mesh Group 120
+    4300032: Mesh 1
+    4300034: Mesh 2
+    4300036: Mesh cot 1
+    4300038: Mesh Nancy
+    4300040: Mesh NancyJacket
+    4300042: Mesh NancyGlasses
+    4300044: Mesh NancyPants
+    4300046: 'Mesh WANG Collection:  Tree 2D "Face-Me" Component'
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

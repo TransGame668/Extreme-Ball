@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: 8ccfb73bb20bff74c9d191997d727dc4
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 3232aa46ecd66796f20d1ec1870e1fa6
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.123546526, y: 15.63732, z: -11.094535}
+      lookAt: {x: 1.5165704, y: -0.70915663, z: 6.11985}
+      up: {x: 0.055445228, y: 0.7262717, z: 0.685168}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 14.163604, y: 8.678607, z: -13.210724}
+        lookAt: {x: 1.647586, y: 2.2189417, z: 6.8841233}
+        up: {x: -0.13916911, y: 0.9647313, z: 0.22344026}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Home
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: sketchup-download200612061312052
+    400000: //RootNode
+    400002: sketchup-download200612061312052
+    2100000: _defaultMat
+    2100002: _LightSlateGray_
+    2100004: _Moccasin_
+    2100006: _8
+    2100008: _LightSteelBlue_
+    2100010: _Beige_
+    2100012: _LightGray_
+    2100014: _White_
+    2100016: _Gainsboro_
+    2100018: _DarkSlateGray_
+    2100020: _Prussian Blue_
+    2100022: _Black_
+    2100024: _CorrogateShiny_1
+    2300000: sketchup-download200612061312052
+    3300000: sketchup-download200612061312052
+    4300000: Mesh sketchup-download200612061312052
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
